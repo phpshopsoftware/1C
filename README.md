@@ -9,7 +9,7 @@
    C:/PHPShop/1C/8.2/Loader_Exchange.epf\
    C:/PHPShop/1C/8.1/Loader_Exchange.epf\
    C:/PHPShop/1C/8.0/Loader_Exchange.epf\
-   C:/PHPShop/1C/7/Loader_Exchange.ert\
+   C:/PHPShop/1C/7/Loader_Exchange.ert
 
 3. Согласиться с лицензионным соглашением на использование.
 4. В окне "Лицензирование" ввести адрес своего сайта в полном формате http://www.мое_имя.ru (пример: http://myshop.ru) и номер серийного ключа. Для ускорения ввода можно по кнопке «LIC» выбрать файл лицензии – имя домена и серийный ключ будут подставлены в соответствующий поля автоматически.
